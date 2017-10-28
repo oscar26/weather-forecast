@@ -1,1 +1,1 @@
-{}
+{"BABA": "data/BABA_actual_prices.json", "BAC": "data/BAC_actual_prices.json", "MSFT": "data/MSFT_actual_prices.json", "BA": "data/BA_actual_prices.json", "NVDA": "data/NVDA_actual_prices.json", "AAPL": "data/AAPL_actual_prices.json", "FB": "data/FB_actual_prices.json", "INTC": "data/INTC_actual_prices.json", "NKE": "data/NKE_actual_prices.json", "TSLA": "data/TSLA_actual_prices.json", "T": "data/T_actual_prices.json", "IBM": "data/IBM_actual_prices.json", "AMZN": "data/AMZN_actual_prices.json"}
